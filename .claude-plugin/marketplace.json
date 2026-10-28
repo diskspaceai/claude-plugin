@@ -1,0 +1,15 @@
+{
+  "name": "diskspaceai",
+  "description": "DiskSpace AI's plugin for Claude: free up space on your Mac safely.",
+  "owner": {
+    "name": "DiskSpace AI",
+    "url": "https://diskspaceai.com"
+  },
+  "plugins": [
+    {
+      "name": "diskspace-ai",
+      "source": "./",
+      "description": "Free up space on your Mac safely with DiskSpace AI: analyze, explain and clean what recreates itself, with 7-day undo."
+    }
+  ]
+}
