@@ -1,11 +1,26 @@
 {
   "name": "diskspace-ai",
   "displayName": "DiskSpace AI",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Free up space on your Mac safely: Claude analyzes the disk with DiskSpace AI, explains what each folder is and cleans only what recreates itself, after asking you, with 7-day undo.",
-  "author": { "name": "DiskSpace AI", "url": "https://diskspaceai.com" },
-  "homepage": "https://diskspaceai.com/mcp",
+  "author": {
+    "name": "DiskSpace AI",
+    "url": "https://diskspaceai.com"
+  },
+  "homepage": "https://diskspaceai.com",
+  "documentationUrl": "https://diskspaceai.com/mcp",
+  "supportUrl": "https://github.com/diskspaceai/diskspace-ai/issues",
+  "privacyPolicyUrl": "https://diskspaceai.com/privacy",
+  "termsOfServiceUrl": "https://diskspaceai.com/terms",
   "repository": "https://github.com/diskspaceai/claude-plugin",
   "license": "MIT",
-  "keywords": ["macos", "disk-space", "storage", "cleanup", "xcode", "docker", "cache"]
+  "keywords": [
+    "macos",
+    "disk-space",
+    "storage",
+    "cleanup",
+    "xcode",
+    "docker",
+    "cache"
+  ]
 }
